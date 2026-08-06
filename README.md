@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Pavan Kumar 👋</h1>
 
-<!--
-**pavankumar-183/pavankumar-183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Building AI Agents, LLM Applications & Intelligent Automation Systems
+</h3>
+<hr>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 About Me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>🤖 Building AI-powered applications with Large Language Models and Multi-Agent Systems.</li>
+  <li>🐍 Primarily working with Python to develop intelligent automation and AI workflows.</li>
+  <li>🎨 Combining AI development with Front-End Development and UI/UX Design to create user-friendly experiences.</li>
+  <li>📚 Continuously exploring modern AI frameworks, prompt engineering, and agentic AI.</li>
+  <li>🚀 Focused on building practical AI applications that solve real-world problems.</li>
+</ul>
